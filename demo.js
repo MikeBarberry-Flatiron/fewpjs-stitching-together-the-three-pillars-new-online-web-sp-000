@@ -3,7 +3,7 @@ class Dog {
     this.name = name;
   }
   introduceYourselfFormally() {
-    return "Hello, my name is" + this.name  + ". Nice to meet you."
+    return "Hello, my name is " + this.name  + ". Nice to meet you."
   }
 }
 
