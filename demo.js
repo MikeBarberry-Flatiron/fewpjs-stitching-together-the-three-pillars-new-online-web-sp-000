@@ -7,4 +7,4 @@ class Dog {
   }
 }
 
-let byron = Dog.new("Byron")
+let byron = new Dog("Byron");
