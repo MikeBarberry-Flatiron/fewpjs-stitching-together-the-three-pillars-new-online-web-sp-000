@@ -7,4 +7,4 @@ class Dog {
   }
 }
 
-byron = Dog.new("Byron")
+let byron = Dog.new("Byron")
