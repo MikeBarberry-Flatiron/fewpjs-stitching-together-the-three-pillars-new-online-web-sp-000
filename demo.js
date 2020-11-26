@@ -9,3 +9,6 @@ class Dog {
 
 let byron = new Dog("Byron");
 console.log(byron.introduceYourselfFormally())
+
+let tony =  new Dog("Tony");
+console.log(tony.introduceYourselfFormally())
