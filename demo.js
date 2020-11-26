@@ -6,3 +6,5 @@ class Dog {
     return "Hello, my name is" + this.name  + ". Nice to meet you."
   }
 }
+
+byron = Dog.new("Byron")
